@@ -7,3 +7,6 @@ This a Responsive Gym Website made with HTML, CSS & JavaScript.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - I have the Figma Design available should anyone want to view it.
+
+![Mobile Version - Gym Website](https://github.com/LiamThomas21/Gym-website/assets/123399807/9fd14a40-9213-4c1d-ab92-2e0840b748a5)
+![Desktop Version - Gym Website](https://github.com/LiamThomas21/Gym-website/assets/123399807/04def1d6-9b9c-4c96-95b8-bd90536e9cd0)
